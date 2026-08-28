@@ -1,60 +1,76 @@
+/* My head in black in color. */
 head {
   color: black;
 }
+/* My meta is black in color. */
 meta {
   color: black;
 }
+/* MY title is black in color. */
 title {
   color: black;
 }
+/* My link is black in color. */
 link {
   color: black;
 }
+/* my header is black in color. */
 header {
   color: black;
 }
+/* my nav's font-size is 20px and the color is black. */
 nav {
   color: black;
   font-size: 20px;
 }
+/* My ul is blue in color and the padding-left is 300px. */
 ul {
   color: blue;
   padding-left: 300px;
 }
+/* My li is black in color. */
 li {
   color: black;
 }
+/* My img's font-size is 100px, the width is 100px, justify-content is center and my padding-left is 500px. */
 img {
   font-size: 100px;
   width: 100px;
   justify-content: center;
   padding-left: 500px;
 }
+/* My p's font-size is 20px, the padding-left is 250px and the max-width is 65ch so that my paragragh's are orginized and visible to see. */
 p {
   font-size: 20px;
   padding-left: 250px;
   max-width: 65ch;
 }
+/* My h1 has black in color, padding-left is 250px and font-size is 80px. */
 h1 {
   color: black;
   padding-left: 250px;
   font-size: 80px;
 }
+/* My h2 is black in color and my padding-left is 250px. */
 h2 {
   color: black;
   padding-left: 250px;
 }
+/* My main is black in color */
 main {
   color: black;
 }
+/* My article is black in color */
 article {
   color: black;
 }
+/* My h3 color is black, font-size is 30px and my padding-left is 250px making it able to fix and visible to see. */
 h3 {
   color: black;
   font-size: 30px;
   padding-left: 250px;
 }
+/* My footer is black in color. */
 footer {
   color: black;
 }
