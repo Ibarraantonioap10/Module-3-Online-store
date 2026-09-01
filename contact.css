@@ -66,7 +66,11 @@ main {
   color: black;
 }
 /* My article is black in color. */
-article {
+section {
+  color: black;
+}
+/* My div is black in color. */
+div {
   color: black;
 }
 /* My p is black in color and font-size is 40px for visible eye sight. */
@@ -76,5 +80,12 @@ p {
 }
 /* My footer is black in color. */
 footer {
+  color: black;
+}
+address {
+  color: black;
+}
+/* My div is black in color. */
+div {
   color: black;
 }

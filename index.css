@@ -60,8 +60,12 @@ h2 {
 main {
   color: black;
 }
-/* My article is black in color */
-article {
+/* My section is black in color */
+section {
+  color: black;
+}
+/* My div is black in color */
+div {
   color: black;
 }
 /* My h3 color is black, font-size is 30px and my padding-left is 250px making it able to fix and visible to see. */
@@ -72,5 +76,9 @@ h3 {
 }
 /* My footer is black in color. */
 footer {
+  color: black;
+}
+/* My address is black in color. */
+address {
   color: black;
 }
